@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Zaed Hassan</h1>
-<h3 align="center">I am a Computer Science graduate and an aspiring Software Engineer from BRAC University with expertise in Python, machine learning and AI-driven solutions. Currently, I am a freelance video editor and graphics designer. But I want to thrive in the software industry and gather new experiences along with new technologies.</h3>
+<h3 align="center">I am a Computer Science graduate and an aspiring Software Engineer from BRAC University with expertise in Python, machine learning and AI-driven solutions. Currently, I am a full time software developer. I specialize in .net and c#. Additionally, I am also a freelance video editor and graphics designer. But I want to thrive in the software industry and gather new experiences along with new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-zaed-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="md-zaed-hassan" /> </p>
 
-- 🌱 I’m currently learning **Android Studio, UI/UX designing, Robotic Process Automation**
+- 🌱 I’m currently learning **Machine Learning Technics, LLMS, Computer Vision Models, Android Development Studio, UI/UX designing, Robotic Process Automation**
 
 - 📫 How to reach me **mdzaedhassansams@gmail.com**
 
