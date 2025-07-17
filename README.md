@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-zaed-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="md-zaed-hassan" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Technics, LLMS, Computer Vision Models, Android Development Studio, UI/UX designing, Robotic Process Automation**
+- 🌱 I’m currently learning **Machine Learning Technics, LLMS, Computer Vision Models, Android Development Studio**
 
 - 📫 How to reach me **mdzaedhassansams@gmail.com**
 
