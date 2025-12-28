@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Zaed Hassan</h1>
+<h1 align="center">Hi! I'm Md. Zaed Hassan</h1>
 <h3 align="center">I am a Computer Science graduate and an aspiring Software Engineer from BRAC University with expertise in Python, machine learning and AI-driven solutions. Currently, I am a full time software developer. I specialize in .net and c#. Additionally, I am also a freelance video editor and graphics designer. But I want to thrive in the software industry and gather new experiences along with new technologies.</h3>
 
 
