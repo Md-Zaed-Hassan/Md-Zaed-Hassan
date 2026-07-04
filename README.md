@@ -12,7 +12,7 @@ Passionate about backend engineering, enterprise applications, AI systems, and s
 
 # 🚀 About Me
 
-- 💼 Full-Time Software Developer
+- 💼 Full-Time Software Engineer & Developer
 - 🌱 Currently learning:
   - LLMs
   - Computer Vision
